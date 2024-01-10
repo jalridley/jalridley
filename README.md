@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hey! I'm Jal. <br/> Musician gone web dev.
 
-<!--
-**jalridley/jalridley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<h3 align="center">⚡️ Former stack: ⚡️</h3>
+<!-- <p align="center">
+  <img src='./assets/icons/ampeg-stack.png' alt='Ampeg bass amplifier' title='Ampeg bass amplifier' width='22%' height='22%' style="background-color:transparent"/>
+</p> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<h3 align="center">✨ Current stack: ✨</h3>
+<p align='center'>
+  <img src="https://skillicons.dev/icons?i=js,css,tailwind,vue,html,nuxt,typescript,vitest,figma,git,docker,react&theme=dark&perline=3" />
+</p>
+
+<br/>
+<br/>
+
+---
+
+<p align="center">🤝 Connections for all things front end 🤝</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jal-ridley/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon" />
+  </a>
+</p>
