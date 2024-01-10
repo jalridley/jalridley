@@ -3,9 +3,9 @@
 <br/>
 
 <h3 align="center">⚡️ Former stack: ⚡️</h3>
-<!-- <p align="center">
-  <img src='./assets/icons/ampeg-stack.png' alt='Ampeg bass amplifier' title='Ampeg bass amplifier' width='22%' height='22%' style="background-color:transparent"/>
-</p> -->
+<p align="center">
+  <img src="ampeg-stack.png" alt='Ampeg bass amplifier' title='Ampeg bass amplifier' width='22%' height='22%'/>
+</p>
 
 <br/>
 <h3 align="center">✨ Current stack: ✨</h3>
@@ -18,7 +18,7 @@
 
 ---
 
-<p align="center">🤝 Connections for all things front end 🤝</p>
+<p align="center">🤝 Connecting for all things front end 🤝</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/jal-ridley/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon" />
