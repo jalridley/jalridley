@@ -4,7 +4,7 @@
 
 <h3 align="center">⚡️ Former stack: ⚡️</h3>
 <p align="center">
-  <img src="ampeg-stack.png" alt='Ampeg bass amplifier' title='Ampeg bass amplifier' width='22%' height='22%'/>
+  <img src="ampeg-stack.png" alt='Ampeg bass amplifier' title='Ampeg bass amplifier' width='170px'/>
 </p>
 
 <br/>
